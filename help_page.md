@@ -4,7 +4,7 @@ title: How to edit this book
 nav: help_page
 ---
 
-{{ page.title }}
+{{ NCBI C++/TOOLKITS, ETC. }}
 =================================================
 
 Getting started
